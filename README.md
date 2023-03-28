@@ -16,3 +16,6 @@ Multi Purpose Rat and Stealer
 * Ask for Admin
 * Run on Startup
 * And More
+-------------------------
+# How to use?
+* This Project is based on a Python PIP Extention. Just import the Project and start Developing your own Rat!
