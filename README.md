@@ -25,6 +25,9 @@ Multi Purpose Rat and Stealer
 * Kill System (Admin)
 * Kill GPU (Admin & MSI Afterburner)
 * Overheat (Admin)
+* Get Sys Info
+* Get Location
+* Get Wifi Connected Devices
 * And More
 -------------------------
 # How to use?
