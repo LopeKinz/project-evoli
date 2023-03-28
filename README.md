@@ -28,4 +28,4 @@ Multi Purpose Rat and Stealer
 * And More
 -------------------------
 # How to use?
-* This Project is based on a Python PIP Extention. Just import the Project and start Developing your own Rat!
+* This Project is based to be a Python PIP Extention. Just import the Project and start Developing your own Rat!
