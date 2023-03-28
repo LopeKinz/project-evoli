@@ -9,16 +9,22 @@ Multi Purpose Rat and Stealer
 - Alot of Features
 ---------------------------
 # Features List
-* Ransomware
+* Ransomware (Admin)
 * Token and Cookie Grabber
 * Password Grabber
-* Remote code Execution
-* Remote Programm Upload
+* Remote code Execution (Maybe Admin)
+* Remote Programm Upload (Maybe Admin)
 * Livestream
 * Remote Custom Messageboxes
-* Ask for Admin
-* Run on Startup
-* Mass Create Windows Accounts
+* Ask for Admin 
+* Run on Startup (Admin)
+* Mass Create Windows Accounts (Admin)
+* Self Destruct 
+* Auto Kill
+* Keylogger
+* Kill System (Admin)
+* Kill GPU (Admin & MSI Afterburner)
+* Overheat (Admin)
 * And More
 -------------------------
 # How to use?
