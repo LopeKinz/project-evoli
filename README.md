@@ -15,6 +15,7 @@ Multi Purpose Rat and Stealer
 * Remote Custom Messageboxes
 * Ask for Admin
 * Run on Startup
+* Mass Create Windows Accounts
 * And More
 -------------------------
 # How to use?
