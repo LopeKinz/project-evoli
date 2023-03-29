@@ -28,6 +28,7 @@ Multi Purpose Rat and Stealer
 * Get Sys Info
 * Get Location
 * Get Wifi Connected Devices
+* Get HWID 
 * And More
 -------------------------
 # How to use?
