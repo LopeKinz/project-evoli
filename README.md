@@ -2,6 +2,9 @@
 * Still in Development! (No Code Yet)
 * 10 Stars = First Beta
 * 100 Stars = Full Release
+-------------------
+# Contributor
+* COv22
 --------------------
 Multi Purpose Rat and Stealer
 - Best Protections (Virustotal and Win Defender)
