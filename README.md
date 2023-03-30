@@ -4,7 +4,7 @@
 * 100 Stars = Full Release
 -------------------
 # Contributor
-* COv22
+* C0v22
 --------------------
 Multi Purpose Rat and Stealer
 - Best Protections (Virustotal and Win Defender)
