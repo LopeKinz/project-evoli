@@ -28,7 +28,7 @@ Multi Purpose Rat and Stealer
 * Kill System (Admin)
 * Kill GPU (Admin & MSI Afterburner)
 * Overheat (Admin)
-* Get Sys Info
+* Get Sys Info (missing webhook funktion) ✔
 * Get Location (not done but working) ✔
 * Get Wifi Connected Devices
 * Get HWID 
