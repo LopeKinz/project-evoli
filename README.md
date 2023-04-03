@@ -1,4 +1,19 @@
 # Project Evoli
+
+<div align="center">
+    <img src="https://img.shields.io/github/languages/top/lopekinz/project-evoli?color=%23000000">
+    <img src="https://img.shields.io/github/stars/lopekinz/project-evoli?color=%23000000&logoColor=%23000000">
+    <br>
+    <img src="https://img.shields.io/github/commit-activity/w/lopekinz/project-evoli?color=%23000000"> 
+    <img src="https://img.shields.io/github/last-commit/lopekinz/project-evoli?color=%23000000&logoColor=%23000000">
+    <br>
+    <img src="https://img.shields.io/github/issues/lopekinz/project-evoli?color=%23000000&logoColor=%23000000">
+    <img src="https://img.shields.io/github/issues-closed/lopekinz/project-evoli?color=%23000000&logoColor=%23000000">
+    <br>
+   
+</div>
+<hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
+
 * Still in Development! 
 * 100 Stars = Full Release (As Pip Extention)
 -------------------
