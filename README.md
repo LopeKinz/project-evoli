@@ -6,7 +6,7 @@
 * C0v22
 --------------------
 Multi Purpose Rat and Stealer
-- Best Protections (Virustotal and Win Defender) 🤷‍♂️✔
+- Best Protections (Virustotal and Win Defender) ✔
 - Anti Reversable
 - Alot of Features
 ---------------------------
