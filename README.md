@@ -57,3 +57,6 @@ Multi Purpose Rat and Stealer Module to easily create your own Rat!
 -------------------------
 # Important!
 * All files with the commit "Add files via upload" are still in development!
+-------------------------
+# Future Ideas
+* GUI Builder
