@@ -1,5 +1,7 @@
 # Project Evoli
-
+<div align="center">
+<a href="https://ibb.co/K2Yfdkh"><img src="https://i.ibb.co/K2Yfdkh/icon.png" alt="icon" border="0" /></a>
+</div>
 <div align="center">
     <img src="https://img.shields.io/github/languages/top/lopekinz/project-evoli?color=%23000000">
     <img src="https://img.shields.io/github/stars/lopekinz/project-evoli?color=%23000000&logoColor=%23000000">
