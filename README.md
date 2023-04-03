@@ -12,6 +12,7 @@ Multi Purpose Rat and Stealer
 - Alot of Features
 ---------------------------
 # Features List
+* Hide Window ✔
 * Ransomware (Admin)
 * Token and Cookie Grabber ✔
 * Password Grabber 🤷‍♂️
@@ -20,7 +21,7 @@ Multi Purpose Rat and Stealer
 * Livestream
 * Remote Custom Messageboxes
 * Ask for Admin 
-* Run on Startup (Admin)
+* Run on Startup (Admin) ✔
 * Mass Create Windows Accounts (Admin) ✔
 * Self Destruct 
 * Auto Kill
