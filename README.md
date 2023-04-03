@@ -19,7 +19,7 @@ Multi Purpose Rat and Stealer
 * Remote Programm Upload (Maybe Admin)
 * Livestream
 * Remote Custom Messageboxes
-* Ask for Admin 
+* Ask for Admin (Webhook code missing) ✔
 * Run on Startup (Admin) ✔
 * Mass Create Windows Accounts (Admin) ✔
 * Self Destruct 
