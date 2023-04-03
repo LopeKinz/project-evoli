@@ -32,6 +32,7 @@ Multi Purpose Rat and Stealer
 * Get Location (not done but working) ✔
 * Get Wifi Connected Devices
 * Get HWID 
+* Check for Open Port ✔
 * And More
 -------------------------
 # How to use?
