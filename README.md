@@ -7,21 +7,21 @@
 * C0v22
 --------------------
 Multi Purpose Rat and Stealer
-- Best Protections (Virustotal and Win Defender)
+- Best Protections (Virustotal and Win Defender) 🤷‍♂️✔
 - Anti Reversable
 - Alot of Features
 ---------------------------
 # Features List
 * Ransomware (Admin)
-* Token and Cookie Grabber
-* Password Grabber
+* Token and Cookie Grabber ✔
+* Password Grabber 🤷‍♂️
 * Remote code Execution (Maybe Admin)
 * Remote Programm Upload (Maybe Admin)
 * Livestream
 * Remote Custom Messageboxes
 * Ask for Admin 
 * Run on Startup (Admin)
-* Mass Create Windows Accounts (Admin)
+* Mass Create Windows Accounts (Admin) ✔
 * Self Destruct 
 * Auto Kill
 * Keylogger
