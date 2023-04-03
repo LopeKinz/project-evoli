@@ -1,7 +1,6 @@
 # Project Evoli
-* Still in Development! (No Code Yet)
-* 10 Stars = First Beta
-* 100 Stars = Full Release
+* Still in Development! 
+* 100 Stars = Full Release (As Pip Extention)
 -------------------
 # Contributor
 * C0v22
