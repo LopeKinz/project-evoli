@@ -16,6 +16,6 @@ def getSystemInfo():
     except Exception as e:
         logging.exception(e)
 
-json.loads(getSystemInfo())
+return(json.loads(getSystemInfo()))
 
 #add webhook funktion
