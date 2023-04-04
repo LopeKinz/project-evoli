@@ -1,3 +1,4 @@
 import geocoder
-g = geocoder.ip('me')
-print(g.latlng) # replace with webhook function
+def get_location()
+  g = geocoder.ip('me')
+  return(g.latlng) 
