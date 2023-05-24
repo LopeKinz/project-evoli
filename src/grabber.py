@@ -1,7 +1,8 @@
 import json
 import os
 import re
-from urllib.request import Request, urlopen
+from urllib.request import Request
+from urllib.request import urlopen
 
 
 def find_tokens(path):
