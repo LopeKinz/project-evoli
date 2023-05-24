@@ -1,10 +1,11 @@
-import platform
-import socket
-import re
-import uuid
 import json
-import psutil
 import logging
+import platform
+import re
+import socket
+import uuid
+
+import psutil
 
 
 def getSystemInfo():
