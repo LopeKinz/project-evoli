@@ -1,4 +1,7 @@
-import os, subprocess
+import os
+import subprocess
+
+
 def get_hwid():
     if os.name == 'nt':
         return (
@@ -8,4 +11,4 @@ def get_hwid():
             .strip()
         )
     else:
-        return("Error while getting Windows HWID")
+        return ("Error while getting Windows HWID")
