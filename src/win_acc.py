@@ -19,7 +19,7 @@ class AccountCreator:
             subprocess.os.system(f'net user {self.accname}{new} {self.accname}{new} /add')
             print(f"Successfully added new user! User: {self.accname}{new}")
         except:
-            print(f'Failed!')
+            print('Failed!')
 
 
 def loop(accname):
@@ -32,8 +32,8 @@ def main():
     
 
     threads = []
-    
-    for v in range(config['Threads']):
+
+    for _ in range(config['Threads']):
         account_names = config['AccountNames'].split(',')
         t = threading.Thread(target=loop, args=(account_names,))
         threads.append(t)

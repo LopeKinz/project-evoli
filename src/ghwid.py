@@ -5,7 +5,7 @@ class HWID:
 
     @staticmethod
     def grab():
-        
+
         """
         Retrieves the HWID.
         
@@ -14,8 +14,7 @@ class HWID:
         """
         
         output = subprocess.check_output('wmic csproduct get uuid').decode('utf-8')
-        hwid = output.split('\n')[1].strip()
-        return hwid
+        return output.split('\n')[1].strip()
 
 
 if __name__ == "__main__":
