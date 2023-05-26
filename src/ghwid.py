@@ -1,11 +1,24 @@
-import os, subprocess
-def get_hwid():
-    if os.name == 'nt':
-        return (
-            subprocess.check_output('wmic csproduct get uuid')
-            .decode()
-            .split('\n')[1]
-            .strip()
-        )
-    else:
-        return("Error while getting Windows HWID")
+import subprocess
+
+
+class HWID:
+
+    @staticmethod
+    def grab():
+        
+        """
+        Retrieves the HWID.
+        
+        Returns:
+            str: HWID.
+        """
+        
+        output = subprocess.check_output('wmic csproduct get uuid').decode('utf-8')
+        hwid = output.split('\n')[1].strip()
+        return hwid
+
+
+if __name__ == "__main__":
+    main = HWID()
+    hwid = main.grab()
+    print(hwid)
