@@ -20,7 +20,7 @@
 * 25 Stars = Full Release (As Pip Extention)
 -------------------
 # Contributor
-* C0v22
+* [scoobyluvs](https://github.com/scoobyluvs)
 --------------------
 Multi Purpose Rat and Stealer Module to easily create your own Rat!
 - Best Protections (Virustotal and Win Defender) ✔
