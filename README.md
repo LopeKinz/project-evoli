@@ -35,7 +35,7 @@ Multi Purpose Rat and Stealer Module to easily create your own Rat!
 * Remote code Execution (Maybe Admin)
 * Remote Programm Upload (Maybe Admin)
 * Livestream
-* Remote Custom Messageboxes
+* Remote Custom Messageboxes (NOT DONE) ✔
 * Ask for Admin (Webhook code missing) ✔
 * Run on Startup (Admin) ✔
 * Mass Create Windows Accounts (Admin) ✔
