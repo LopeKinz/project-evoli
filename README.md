@@ -32,7 +32,7 @@ Multi Purpose Rat and Stealer Module to easily create your own Rat!
 * Ransomware (Admin)
 * Token and Cookie Grabber ✔
 * Password Grabber 🤷‍♂️
-* Remote code Execution (Maybe Admin)
+* Remote code Execution (Maybe Admin) ✔
 * Remote Programm Upload (Maybe Admin)
 * Livestream
 * Remote Custom Messageboxes (NOT DONE) ✔
