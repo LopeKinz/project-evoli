@@ -41,7 +41,7 @@ Multi Purpose Rat and Stealer Module to easily create your own Rat!
 * Mass Create Windows Accounts (Admin) ✔
 * Self Destruct 
 * Auto Kill
-* Keylogger
+* Keylogger ✔
 * Kill CPU ✔ (2 Methods)
 * Kill System (Admin) 
 * Kill GPU (Admin & MSI Afterburner) ✔
