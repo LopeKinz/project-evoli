@@ -42,7 +42,8 @@ Multi Purpose Rat and Stealer Module to easily create your own Rat!
 * Self Destruct 
 * Auto Kill
 * Keylogger
-* Kill System (Admin)
+* Kill CPU ✔ (2 Methods)
+* Kill System (Admin) 
 * Kill GPU (Admin & MSI Afterburner)
 * Overheat (Admin)
 * Get Sys Info (missing webhook funktion) ✔
