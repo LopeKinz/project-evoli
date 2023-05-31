@@ -47,7 +47,7 @@ Multi Purpose Rat and Stealer Module to easily create your own Rat!
 * Overheat (Admin)
 * Get Sys Info (missing webhook funktion) ✔
 * Get Location (not done but working) ✔
-* Get Wifi Connected Devices
+* Get Wifi Connected Devices ✔
 * Get HWID ✔
 * Check for Open Port ✔
 * And More
