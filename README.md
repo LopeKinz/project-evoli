@@ -17,6 +17,7 @@
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 
 * Still in Development! Every help appreciated (gets credits)! 
+* Project is 80% Done!
 * 25 Stars = Full Release (As Pip Extention)
 -------------------
 # Contributor
