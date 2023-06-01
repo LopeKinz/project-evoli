@@ -17,7 +17,7 @@
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 
 * Still in Development! Every help appreciated (gets credits)! 
-* Project is 80% Done!
+* Project is 99% Done!
 * 25 Stars = Full Release (As Pip Extention)
 -------------------
 # Contributor
@@ -30,21 +30,14 @@ Multi Purpose Rat and Stealer Module to easily create your own Rat!
 ---------------------------
 # Features List
 * Hide Window ✔
-* Ransomware (Admin)
 * Token and Cookie Grabber ✔
-* Password Grabber 🤷‍♂️
 * Remote code Execution (Maybe Admin) ✔
-* Remote Programm Upload (Maybe Admin)
-* Livestream
 * Remote Custom Messageboxes (NOT DONE) ✔
 * Ask for Admin (Webhook code missing) ✔
 * Run on Startup (Admin) ✔
 * Mass Create Windows Accounts (Admin) ✔
-* Self Destruct 
-* Auto Kill
 * Keylogger ✔
-* Kill CPU ✔ (2 Methods)
-* Kill System (Admin) 
+* Kill CPU  (2 Methods) ✔
 * Kill GPU (Admin & MSI Afterburner) ✔
 * Overheat (Admin) ✔
 * Get Sys Info (missing webhook funktion) ✔
@@ -52,6 +45,15 @@ Multi Purpose Rat and Stealer Module to easily create your own Rat!
 * Get Wifi Connected Devices ✔
 * Get HWID ✔
 * Check for Open Port ✔
+-------------------------
+# Future Features
+* Ransomware (Admin)
+* Password Grabber
+* Remote Programm Upload (Maybe Admin)
+* Livestream
+* Self Destruct 
+* Auto Kill
+* Kill System (Admin) 
 * And More
 -------------------------
 # How to use?
