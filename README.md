@@ -28,6 +28,11 @@ Multi Purpose Rat and Stealer Module to easily create your own Rat!
 - Anti Reversable
 - Alot of Features
 ---------------------------
+# Disclaimer!
+- Risk of Destruction!
+- I am NOT responsible of any Damage made with this powerful tool!
+- NO Tutorials were given! Figure out yourself ;)
+---------------------------
 # Features List
 * Hide Window ✔
 * Token and Cookie Grabber ✔
