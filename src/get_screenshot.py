@@ -1,14 +1,15 @@
-from string import ascii_letters, digits
 import pyautogui
 import os
-import random
+from time import gmtime, strftime
+import platform
 def get_screenshot():
     get_screenshot.scrn = pyautogui.screenshot()
     dir_path = os.path.dirname(os.path.realpath(__file__))
+    date =  strftime("%H%M%S_%Y-%m-%d", gmtime())
     global scrn_path
     scrn_path= os.path.join(
-        dir_path, f"Screenshot_{''.join(random.choices(list(ascii_letters + digits), k=5))}.png" # Avoiding overwriting / exception.
+        dir_path, f"Screenshot_{date}_{platform.node()}.png"
     )
-    
+
     get_screenshot.scrn.save(scrn_path)
     return scrn_path
