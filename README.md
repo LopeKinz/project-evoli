@@ -50,6 +50,7 @@ Multi Purpose Rat and Stealer Module to easily create your own Rat!
 * Get Wifi Connected Devices ✔
 * Get HWID ✔
 * Check for Open Port ✔
+* Get Screenshot ✔
 -------------------------
 # Future Features
 * Ransomware (Admin)
