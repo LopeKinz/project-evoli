@@ -22,6 +22,7 @@
 -------------------
 # Contributor
 * [scoobyluvs](https://github.com/scoobyluvs)
+* [suegdu](https://github.com/suegdu)
 --------------------
 Multi Purpose Rat and Stealer Module to easily create your own Rat!
 - Best Protections (Virustotal and Win Defender) ✔
