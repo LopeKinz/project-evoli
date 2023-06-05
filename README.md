@@ -52,12 +52,12 @@ Multi Purpose Rat and Stealer Module to easily create your own Rat!
 * Get HWID ✔
 * Check for Open Port ✔
 * Get Screenshot ✔
+* Livestream ✔
 -------------------------
 # Future Features
 * Ransomware (Admin)
 * Password Grabber
 * Remote Programm Upload (Maybe Admin)
-* Livestream
 * Self Destruct 
 * Auto Kill
 * Kill System (Admin) 
