@@ -25,7 +25,6 @@
 --------------------
 Multi Purpose Rat and Stealer Module to easily create your own Rat!
 - Best Protections (Virustotal and Win Defender) ✔
-- Anti Reversable
 - Alot of Features
 ---------------------------
 # Disclaimer!
