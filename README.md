@@ -61,6 +61,10 @@ Multi Purpose Rat and Stealer Module to easily create your own Rat!
 * Kill System (Admin) 
 * And More
 -------------------------
+# Changelog
+* 12.06.2023
+* - Added error.py
+-------------------------
 # How to use?
 * This Project is based to be a Python PIP Extention. Just import the Project and start Developing your own Rat!
 -------------------------
