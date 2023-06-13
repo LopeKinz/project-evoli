@@ -51,6 +51,9 @@ Multi Purpose Rat and Stealer Module to easily create your own Rat!
 * Check for Open Port ✔
 * Get Screenshot ✔
 * Livestream ✔
+* Block Inputs ✔
+* Get Clipboard ✔
+* Chang Volume ✔
 -------------------------
 # Future Features
 * Ransomware (Admin)
