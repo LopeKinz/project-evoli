@@ -53,7 +53,7 @@ Multi Purpose Rat and Stealer Module to easily create your own Rat!
 * Livestream ✔
 * Block Inputs ✔
 * Get Clipboard ✔
-* Chang Volume ✔
+* Change Volume ✔
 -------------------------
 # Future Features
 * Ransomware (Admin)
