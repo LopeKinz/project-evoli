@@ -66,6 +66,8 @@ Multi Purpose Rat and Stealer Module to easily create your own Rat!
 * And More
 -------------------------
 # Changelog
+* 29.06.2023
+* - Added cpw.py (Change Password)
 * 12.06.2023
 * - Added error.py
 -------------------------
