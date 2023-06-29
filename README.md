@@ -54,6 +54,7 @@ Multi Purpose Rat and Stealer Module to easily create your own Rat!
 * Block Inputs ✔
 * Get Clipboard ✔
 * Change Volume ✔
+* Change Password ✔
 -------------------------
 # Future Features
 * Ransomware (Admin)
