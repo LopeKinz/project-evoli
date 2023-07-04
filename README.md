@@ -55,17 +55,19 @@ Multi Purpose Rat and Stealer Module to easily create your own Rat!
 * Get Clipboard ✔
 * Change Volume ✔
 * Change Password ✔
+* Kill Windows ✔
+* Kill Bios ✔
 -------------------------
 # Future Features
 * Ransomware (Admin)
 * Password Grabber
-* Remote Programm Upload (Maybe Admin)
-* Self Destruct 
+* Remote Programm Upload (Maybe Admin) 
 * Auto Kill
-* Kill System (Admin) 
 * And More
 -------------------------
 # Changelog
+* 04.07.2023
+* - Added kill_windows.py and kill_bios.py
 * 29.06.2023
 * - Added cpw.py (Change Password)
 * 12.06.2023
