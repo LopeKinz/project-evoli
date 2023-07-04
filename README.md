@@ -54,9 +54,9 @@ Multi Purpose Rat and Stealer Module to easily create your own Rat!
 * Block Inputs ✔
 * Get Clipboard ✔
 * Change Volume ✔
-* Change Password ✔
-* Kill Windows ✔
-* Kill Bios ✔
+* Change Password (Admin) ✔
+* Kill Windows (Admin) ✔
+* Kill Bios (Admin) ✔
 -------------------------
 # Future Features
 * Ransomware (Admin)
