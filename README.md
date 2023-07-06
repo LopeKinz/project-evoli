@@ -24,7 +24,7 @@
 ## Disclaimer
 - **Risk of Destruction!** Please use this tool responsibly and ethically. 
 - I am **NOT** responsible for any damage caused by the usage of this tool.
-- No tutorials or guides are provided. Users are expected to figure out the usage on their own.
+- The Project is Well documented check the [WIKI](https://github.com/LopeKinz/project-evoli/wiki)
 
 ## Features
 * **Hide Window:** Allows you to hide the RAT window.
