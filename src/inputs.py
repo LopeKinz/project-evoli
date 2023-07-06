@@ -1,4 +1,5 @@
 import ctypes
+def block():
             is_admin = ctypes.windll.shell32.IsUserAnAdmin() != 0
             if is_admin == True:
                 ok = windll.user32.BlockInput(True)
